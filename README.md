@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL URL Here](https://github.com/AbuEisha/front-end-mentor-challenges/tree/job-listings-with-filtering)
+- [Solution URL URL Here](https://github.com/AbuEisha/job-listings-with-filtering)
 - [Live Site URL Here](https://job-listings-with-filtering-live.pages.dev/)
 
 ## My process
